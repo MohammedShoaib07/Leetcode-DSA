@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -18,4 +19,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
