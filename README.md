@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
@@ -29,12 +30,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
