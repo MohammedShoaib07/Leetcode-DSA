@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0035-search-insert-position) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0283-move-zeroes) |
@@ -48,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
