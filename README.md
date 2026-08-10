@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/MohammedShoaib07/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
